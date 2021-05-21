@@ -87,7 +87,7 @@ const info =[
 		l1:" Future Computer Engineer.",
 		professional:" Web Dev",
 		status :" Mingle",
-		hobbies :" Exercise , Gamming",
+		hobbies :" Exercise , Gaming , Coding",
 		other:" Overthinker , Love Travelling"
 	},{
 		img:"imgs/TM.jpg",
