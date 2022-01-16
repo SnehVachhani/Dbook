@@ -63,7 +63,7 @@ const info =[
 		hobbies :" Walking Alone",
 		other:" Powerfull Brain"
 	},{
-		im:"imgs/PB.jpg",
+		img:"imgs/PB.jpg",
 		name :"Preet Buhecha",
 		age :" 18 in 2020",
 		l1:" Future IT Engineer.",
