@@ -81,7 +81,7 @@ const info =[
 		hobbies :" Playing Cricket , Watching Web Series",
 		other:" Pro In Cricket , Earning Lockdown Money"
 	},{
-		img:"imgs/SV.jfif",
+		img:"imgs/SV.jpg",
 		name :"Sneh Vachhani",
 		age :" 18 in 2020",
 		l1:" Future Computer Engineer.",
